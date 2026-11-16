@@ -1,0 +1,12 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "lowestKmh": 16.2,
+    "highestKmh": 43.2,
+    "gearCount": 4,
+    "rangePercent": 266.67
+  }
+}

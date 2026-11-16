@@ -1,0 +1,12 @@
+{
+  "chainrings": [
+    36,
+    48
+  ],
+  "sprockets": [
+    12,
+    24
+  ],
+  "wheelMeters": 2,
+  "cadenceRpm": 90
+}
